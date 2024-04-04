@@ -1,5 +1,7 @@
-$sidebar-color: #C14633 !default;
 @import "./color_schemes/light";
+$sidebar-color: #C14633 !default;
+@import "./vendor/OneLightJekyll/syntax";
+
 
 //$color-scheme: light !default;
 //$body-background-color: $white !default;
@@ -16,4 +18,3 @@ $sidebar-color: #C14633 !default;
 //$search-background-color: $white !default;
 //$search-result-preview-color: $grey-dk-000 !default;
 
-//@import "./vendor/OneLightJekyll/syntax";
