@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Texas History
+title: Texas
 nav_order: 2
 parent: HISTORY
 has_children: true
