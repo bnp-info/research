@@ -1,10 +1,10 @@
 title: Brandon's Research
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+color_scheme: bnp2024
 
 url: https://brandonsnotepad.info
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-color_scheme: bnp2024
