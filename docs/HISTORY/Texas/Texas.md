@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Texas History
-nav_order: 1
+nav_order: HISTORY
+has_children: true
 ---
 #Texas History
