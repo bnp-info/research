@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Subtopic B
+title:  Detail A1.2
 nav_order: 2
-parent: TOPIC
+parent: Subtopic A1
+grand_parent: Subtopic A
 has_children: true
 ---
 
-# SUBTOPIC B Landing Page
+# Detail A1.2 Landing Page
+
 
 ## Paragraph 1
 
