@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  'Detail A1.2'
+title:  Detail_A1.2
 nav_order: 2
-parent: 'Subtopic A1'
-grand_parent: 'Subtopic A'
+parent: Subtopic_A1
+grand_parent: Subtopic_A
 has_children: false
 ---
 

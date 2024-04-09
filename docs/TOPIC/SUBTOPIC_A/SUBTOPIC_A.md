@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 'Subtopic A'
+title: Subtopic_A
 nav_order: 1
-parent: 'TOPIC'
+parent: TOPIC
 has_children: true
 ---
 
