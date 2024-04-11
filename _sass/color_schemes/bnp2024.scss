@@ -6,7 +6,10 @@ $link-color: #C14633;
   background-color: #FFFFFF;
   color: #eab6ae;
 }*/
-.nav-list-link:hover {
+/*.nav-list-link:hover {
   background-color: #eab6ae;
   background-image: none; /*linear-gradient(-90deg, #ebedf5 0%, rgba(234, 182, 174, 0.8) 80%, rgba(234, 182, 174, 0) 100%);*/
+}*/
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+    background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(234, 182, 174, 0.8) 80%, rgba(234, 182, 174, 0) 100%);
 }
