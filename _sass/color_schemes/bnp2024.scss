@@ -6,6 +6,6 @@ $link-color: #C14633;
   background-color: #FFFFFF;
   color: #eab6ae;
 }*/
-.nav-list .nav-list-item .nav-list-link.active {
+li.nav-list-item.active {
     background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(234, 182, 174, 0.8) 80%, rgba(234, 182, 174, 0) 100%);
 }
