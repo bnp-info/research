@@ -8,5 +8,5 @@ $link-color: #C14633;
 }*/
 a.nav-list-link.active {
   background-color: #eab6ae;
-  background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(234, 182, 174, 0.8) 80%, rgba(234, 182, 174, 0) 100%);
+  background-image: none; /*linear-gradient(-90deg, #ebedf5 0%, rgba(234, 182, 174, 0.8) 80%, rgba(234, 182, 174, 0) 100%);*/
 }
