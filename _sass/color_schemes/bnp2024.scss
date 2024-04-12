@@ -1,23 +1,25 @@
-/* $sidebar-color: #C14633; */
-/* $sidebar-color: #eab6ae; */
 $sidebar-color: #FFFFFF;
 $link-color: #C14633;
+
+/* ATTEMPTS TO MAKE THE MENU ITEMS CHANGE COLOR ON HOVER
+
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
     background-image: linear-gradient(-90deg, #ffffff 0%, rgba(234, 182, 174, 0.8) 80%, rgba(234, 182, 174, 0) 100%);
 }
 
-/*
+
 li.nav-list-item.active {
   background-color: #FFFFFF;
   color: #eab6ae;
 }
-*/
 
-/*
+
+
 .nav-list-link:hover {
   background-color: #eab6ae;
   background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(234, 182, 174, 0.8) 80%, rgba(234, 182, 174, 0) 100%);
 }
+
 */
 
 
