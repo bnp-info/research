@@ -2,7 +2,7 @@ title: Brandon's Research
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: bnp2024
-logo: https://brandonsnotepad.info/assets/img/cropped-logo_512x512.png
+#logo: https://brandonsnotepad.info/assets/img/cropped-logo_512x512.png
 url: https://brandonsnotepad.info
 
 aux_links:
