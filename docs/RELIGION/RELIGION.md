@@ -1,7 +1,7 @@
 ---
 layout: default
-title: HISTORY
-nav_order: 2
+title: RELIGION
+nav_order: 5
 has_children: true
 ---
-# HISTORY
+# RELIGION

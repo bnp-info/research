@@ -1,7 +1,7 @@
 ---
 layout: default
-title: TOPIC
-nav_order: 2
+title: TEMPLATE
+nav_order: 6
 has_children: true
 ---
 
