@@ -1,7 +1,7 @@
 ---
 layout: default
-title: HISTORY
-nav_order: 2
+title: PHILOSOPHY
+nav_order: 4
 has_children: true
 ---
-# HISTORY
+# PHILOSOPHY
