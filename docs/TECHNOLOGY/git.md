@@ -17,3 +17,9 @@ has_children: true
 [My Git Cheat Sheet](git_cheat_sheet)
 
 ## Tutorials
+[W3Schools](https://www.w3schools.com/git/default.asp)
+[Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) by Ben Lynn at Stanford University
+
+## Articles
+[Understanding Git Conceptually](https://www.cduan.com/technical/git/)
+[Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/)
