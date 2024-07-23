@@ -1,7 +1,6 @@
 ---
 layout: default
 title: My Git Cheat Sheet
-nav_order: 1
 parent: Git Version Control
 grand_parent: TECHNOLOGY
 has_children: false
