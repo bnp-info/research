@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git Version Control
-parent: 
+parent: All Things Git
 grand_parent: TECHNOLOGY
 has_children: true
 has_toc: false

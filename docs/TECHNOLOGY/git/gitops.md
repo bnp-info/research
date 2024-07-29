@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitOps
-parent: 
+parent: All Things Git
 grand_parent: TECHNOLOGY
 has_children: false
 ---
