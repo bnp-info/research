@@ -14,5 +14,5 @@ has_toc: false
 
 ## Mind Mapping
 
-[Tony Buzan](mindmapping/buzan) 
-[Justin Sung](mindmapping/justinsung) 
+[Tony Buzan](mindmapping/buzan)  
+[Justin Sung](mindmapping/justinsung)  
