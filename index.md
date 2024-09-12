@@ -3,35 +3,14 @@ layout: home
 title: Home
 nav_order: 1
 ---
-# Home
+---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## Welcome to my personal research page!
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Some years ago, I sought a way to share online the topics I had been researching. I wasn't interested in manually maintaining a website, and while static website templates did exist, they weren't quite as sophisticated as they are today. So, I settled on a blogging platform, and this worked quite well for a while...until it didn't. Several serious problems arose over time with regard to how content was arranged and the planning involved for breaking very large topics into a series of smaller posts. In the end, I became dissatisifed with the workflow and realized that I had simply chosen the wrong tool for the job. I needed something more flexible that made it easy to move content around when necessary and allow it room to expand in unexpected ways.
 
-More specifically, the created site:
+And that is how this site came to be. No doubt, I still plan to blog about my progress and my findings, but this is where where the real research will reside.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+The content on this site is topic-driven, as you can tell from the options in the menu above, and it will vary in format as needed.  Some pages will contain simple lists of currated references, while others will house research plans, aggregated notes, or source summaries -- really, whatever it takes to capture useful information to support my writing. And while I consider myself as my primary customer, I hope you find it useful too.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+-Brandon

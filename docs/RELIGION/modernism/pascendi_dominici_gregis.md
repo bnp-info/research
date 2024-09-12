@@ -1,4 +1,14 @@
-# PASCENDI DOMINICI GREGIS
+---
+layout: default
+title: Pascendi Dominici Gregis
+parent: Catholic Modernism
+grand_parent: RELIGION
+has_children: false
+has_toc: false
+
+---
+
+# Pascendi Dominici Gregis
 
 Encyclical of Pope Pius X
 
@@ -42,11 +52,11 @@ This is a summary of *Pascendi Dominici Gregis* promulgated by Pope Pius X on Se
 
 - Every Modernist has several personalities: philosopher, believer, theologian, historian, critic, apologist, and reformer. These roles must be clearly distinguished to understand their system and principles, as wellas the consequences of their doctrines. [5]
 
-- Founded on Agnosticism
+- Modernist thought is founded on the philosophy of Agnosticism [6]:
   
   - BOOKMARK - Resume research here
 
-- Vital Immanence
+- Vital Immanence [7-8]
 
 - Deformation of Religious History the Consequence
 
