@@ -18,3 +18,10 @@ has_toc: false
 [Lilian Jackson Braun](reading_lists/lilian_jackson_braun) (The Cat Who…)  
 [Madeline L’Engle](reading_lists/madeline_lengle) (The Time Quartet)  
 [Other Authors](reading_lists/other_authors)
+
+## Poetry of Interest
+William Blake (“The Lamb” and “The Tyger”)  
+Francis Thompson (“In No Strange Land”)  
+Gerard Manley Hopkins (“The Windhover”)  
+Genres (Epic, Haiku, Tanka, etc.)  
+Aristotle’s Poetics  
