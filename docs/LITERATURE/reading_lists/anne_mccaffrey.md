@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Anne McCaffrey
-parent: Reading Lists
-grand_parent: LITURATURE
+parent: LITURATURE
 has_children: false
 ---
 # Anne McCaffrey Reading List
