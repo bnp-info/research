@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Madeline L’Engle
-parent: Reading Lists
-grand_parent: LITURATURE
+parent: LITURATURE
 has_children: false
 ---
 # Madeline L’Engle Reading List

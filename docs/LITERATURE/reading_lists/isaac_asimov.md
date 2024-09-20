@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Isaac Asimov
-parent: Reading Lists
-grand_parent: LITURATURE
+parent: LITURATURE
 has_children: false
 ---
 # Isaac Asimov Reading List

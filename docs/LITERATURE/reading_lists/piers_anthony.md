@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Piers Anthony
-parent: Reading Lists
-grand_parent: LITURATURE
+parent: LITURATURE
 has_children: false
 ---
 # Piers Anthony Reading List

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Tony Hillerman
-parent: Reading Lists
-grand_parent: LITURATURE
+parent: LITURATURE
 has_children: false
 ---
 # Tony Hillerman Reading List
