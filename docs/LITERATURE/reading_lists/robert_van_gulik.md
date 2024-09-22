@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Robert van Gulik
-parent: LITURATURE
+parent: My Reading Lists
+grand_parent: LITURATURE
 has_children: false
 ---
 # Robert van Gulik Reading List

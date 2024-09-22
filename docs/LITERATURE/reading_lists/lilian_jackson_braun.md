@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Lilian Jackson Braun
-parent: LITURATURE
+parent: My Reading Lists
+grand_parent: LITURATURE
 has_children: false
 ---
 # Lilian Jackson Braun Reading List

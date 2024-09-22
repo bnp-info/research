@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Tom Clancy
-parent: LITURATURE
+parent: My Reading Lists
+grand_parent: LITURATURE
 has_children: false
 ---
 # Tom Clancy Reading List
