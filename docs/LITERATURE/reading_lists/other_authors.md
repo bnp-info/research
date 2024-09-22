@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Other Authors
-parent: LITURATURE
+parent: My Reading Lists
+grand_parent: LITURATURE
 has_children: false
 ---
 # Other Authors Reading List
