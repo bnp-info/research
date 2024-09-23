@@ -8,15 +8,15 @@ has_children: false
 
 ## Fiction Authors
 *By author's last name*  
-[Piers Anthony](reading_lists/piers_anthony) (Incarnations of Immortality)  
-[Isaac Asimov](reading_lists/isaac_asimov) (Foundation, Robot, Empire)  
-[Tom Clancy](reading_lists/tom_clancy) (Jack Ryan & John Clark)  
-[Tony Hillerman](reading_lists/tony_hillerman) (Joe Leaphorn & Jim Chee)  
-[Robert van Gulik](reading_lists/robert_van_gulik) (Judge Dee)  
-[Lilian Jackson Braun](reading_lists/lilian_jackson_braun) (The Cat Who…)  
-[Madeline L’Engle](reading_lists/madeline_lengle) (The Time Quartet)  
-[Anne McCaffrey](reading_lists/anne_mccaffrey) (Pern)    
-[Other Authors](reading_lists/other_authors)
+[Piers Anthony](piers_anthony) (Incarnations of Immortality)  
+[Isaac Asimov](isaac_asimov) (Foundation, Robot, Empire)  
+[Tom Clancy](tom_clancy) (Jack Ryan & John Clark)  
+[Tony Hillerman](tony_hillerman) (Joe Leaphorn & Jim Chee)  
+[Robert van Gulik](robert_van_gulik) (Judge Dee)  
+[Lilian Jackson Braun](lilian_jackson_braun) (The Cat Who…)  
+[Madeline L’Engle](madeline_lengle) (The Time Quartet)  
+[Anne McCaffrey](anne_mccaffrey) (Pern)    
+[Other Authors](other_authors)
 
 ## Fiction Series (Multiple Authors)
-[Star Trek: The Next Generation](reading_lists/sttng)  
+[Star Trek: The Next Generation](sttng)  
