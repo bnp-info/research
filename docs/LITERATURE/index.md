@@ -8,7 +8,7 @@ has_toc: false
 # LITURATURE
 
 [My Reading Lists](reading_lists)
-
+[Interactive Fiction](interactive_fiction)
 
 ## Poetry of Interest
 William Blake (“The Lamb” and “The Tyger”)  
