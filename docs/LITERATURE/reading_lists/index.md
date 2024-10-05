@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Reading Lists
-parent: LITURATURE
+parent: LITERATURE
 has_children: false
 ---
 # My Reading Lists

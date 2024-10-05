@@ -1,11 +1,11 @@
 ---
 layout: default
-title: LITURATURE
+title: LITERATURE
 nav_order: 3
 has_children: true
 has_toc: false
 ---
-# LITURATURE
+# LITERATURE
 
 [My Reading Lists](reading_lists)
 [Interactive Fiction](interactive_fiction)
