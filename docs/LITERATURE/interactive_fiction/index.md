@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Interactive Fiction
-parent: LITURATURE
+parent: LITERATURE
 has_children: false
 ---
 # Interactive Fiction
@@ -38,13 +38,13 @@ has_children: false
 [Writing IF by Emily Short](https://emshort.wordpress.com/how-to-play/writing-if/)  
 [A Writer's Guide to Interactive Fiction](http://eblong.com/zarf/essays/if-for-writers.html)  
 [On Writing Interactive Fiction](http://birdsbeforethestorm.net/2014/01/on-writing-interactive-fiction/)  
-[ Beginner's Guide to Playing Interactive Fiction](http://www.microheaven.com/ifguide/)  
+[Beginner's Guide to Playing Interactive Fiction](http://www.microheaven.com/ifguide/)  
+[Interactive Fiction Theory](http://brasslantern.org/writers/iftheory/)
 
 ## Miscellany
 [The Interactive Fiction Page (Carnegie Mellon)](http://www.cs.cmu.edu/~wsr/IF/)  
 
-## Links I cannot access from my current location
+## Broken Links
 http://notimetoplay.org/2011/06/11/hypertext-it-doesnt-get-much-easier/  
 http://ramus.notimetoplay.org/  
-http://brasslantern.org/writers/iftheory/  
 http://www.gamasutra.com/blogs/BenServiss/20150113/234013/Writing_Interactive_Fiction_in_Six_Steps.php  
