@@ -52,17 +52,16 @@ This is a summary of *Pascendi Dominici Gregis* promulgated by Pope Pius X on Se
 
 - Every Modernist has several personalities: philosopher, believer, theologian, historian, critic, apologist, and reformer. These roles must be clearly distinguished to understand their system and principles, as wellas the consequences of their doctrines. [5]
 
-- Modernist thought is founded on the philosophy of Agnosticism [6]:
+- Philosopher
   
+  - Modernist thought is founded on the philosophy of Agnosticism, but has somehow progressed to full atheism (positive denial of God). [6]
+  - This philosophy purports that human reason is strictly limited to phenomena, only that which can be sensed; thus God's existance cannot be recognized directly in scientific or historical studies. [6]
+  - Vatican I condemned the errors that negate Natural Theology (*De Revel*., can. I), divine external revelation (*De Revel*, can. 2) and motives of credibility (i.e. by external signs, thus reducing faith to personal internal experience or private inspiration (*De Fide*, can. 3). [6]
+  - The Modernist explanation for religion is the principle of *vital immanence*, that is to say, that is *comes from within* the life of man.
   - BOOKMARK - Resume research here
-
-- Vital Immanence [7-8]
-
-- Deformation of Religious History the Consequence
-
-- The Origin of Dogmas
-
-- Its Evolution
+  - Deformation of Religious History the Consequence
+  - The Origin of Dogmas
+  - Its Evolution
 
 - The Modernist as Believer: Individual Experience and Religious Certitude
 
