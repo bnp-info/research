@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git Monorepos
-parent: Git Version Control
+parent: All Things Git
 grand_parent: TECHNOLOGY
 has_children: false
 ---
