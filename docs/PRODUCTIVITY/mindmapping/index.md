@@ -1,10 +1,12 @@
 ---
 layout: default
-title: PRODUCTIVITY
-nav_order: 8
+title: Mind Mapping
+parent: PRODUCTIVITY
 has_children: true
 has_toc: false
 
 ---
 
-# PRODUCTIVITY
+# Mind Mapping
+
+
