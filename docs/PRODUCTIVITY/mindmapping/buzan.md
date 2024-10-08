@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Tony Buzan
-parent: PRODUCTIVITY
+parent: Mind Mapping
+grand_parent: PRODUCTIVITY
 has_children: false
 
 ---
