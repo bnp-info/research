@@ -12,29 +12,8 @@ has_toc: false
 # TECHNOLOGY
 
 Here are just a few of the topics I plan to explore:
-
-- Artifical Intelligence
-  
-  - LLM
-
-- Software
-  
-  - Azure DevOps (AzDO)
-  
-  - Git
-
-- OS
-  
-  - Linux
-
-- Programming
-  
-  - Perl
-  
-  - Python
-
-- Hardware
-  
-  - Beowulf Clusters
-  
-  - Circuits
+- Artifical Intelligence (LLMs)
+- Software (Azure DevOps, Git)
+- OS (Linux, NextOS, BeOS)
+- Programming (Perl, Python)
+- Hardware (Beowulf Clusters, Circuits)
