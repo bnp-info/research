@@ -20,3 +20,6 @@ has_children: false
 
 ## Fiction Series (Multiple Authors)
 [Star Trek: The Next Generation](sttng)  
+
+## Genres
+[Horror](horror)

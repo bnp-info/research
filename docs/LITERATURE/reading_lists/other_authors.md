@@ -29,13 +29,6 @@ has_children: false
 ## Jack Higgins
 - [X] Bad Company
 
-## Steven King
-- [X] The Breathing Method
-- [X] Carrie
-- [X] Pet Cemetary
-- [X] Skeleton Crew
-- [ ] The Stand
-
 ## Scot Harvath
 - [X] The First Commandment (2007)
 
