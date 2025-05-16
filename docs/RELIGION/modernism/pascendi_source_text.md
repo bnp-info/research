@@ -1,10 +1,6 @@
-6. 7. ***Vital Immanence***
-   
-   The Modernist explanation for religion is the principle of *vital immanence*, that is to say, that is comes from within the life of man.
-   
-   positive side of it consists in what they call . This is how they advance from one to the other. Religion, whether natural or supernatural, must, like every other fact, admit of some explanation. But when Natural theology has been destroyed, the road to revelation closed through the rejection of the arguments of credibility, and all external revelation absolutely denied, it is clear that this explanation will be sought in vain outside man himself. It must, therefore, be looked for in man; and since religion is a form of life, the explanation must certainly be found in the life of man. Hence the principle of *religious immanence* is formulated. 
-   
-   Moreover, the first actuation, so to say, of every vital phenomenon, and religion, as has been said, belongs to this category, is due to a certain necessity or impulsion; but it has its origin, speaking more particularly of life, in a movement of the heart, which movement is called a *sentiment*. Therefore, since God is the object of religion, we must conclude that faith, which is the basis and the foundation of all religion, consists in a sentiment which originates from a need of the divine. This need of the divine, which is experienced only in special and favourable circumstances, cannot, of itself, appertain to the domain of consciousness; it is at first latent within the consciousness, or, to borrow a term from modern philosophy, in the *subconsciousness*, where also its roots lies hidden and undetected.
+...still in para 7
+
+Therefore, since God is the object of religion, we must conclude that faith, which is the basis and the foundation of all religion, consists in a sentiment which originates from a need of the divine. This need of the divine, which is experienced only in special and favourable circumstances, cannot, of itself, appertain to the domain of consciousness; it is at first latent within the consciousness, or, to borrow a term from modern philosophy, in the *subconsciousness*, where also its roots lies hidden and undetected.
 
 Should anyone ask how it is that this need of the divine which man experiences within himself grows up into a religion, the Modernists reply thus: Science and history, they say, are confined within two limits, the one external, namely, the visible world, the other internal, which is consciousness. When one or other of these boundaries has been reached, there can be no further progress, for beyond is the *unknowable*. In presence of this *unknowable*, whether it is outside man and beyond the visible world of nature, or lies hidden within in the subconsciousness, the need of the divine, according to the principles of *Fideism*, excites in a soul with a propensity towards religion a certain special *sentiment*, without any previous advertence of the mind: and this sentiment possesses, implied within itself both as its own object and as its intrinsic cause, the *reality* of the divine, and in a way unites man with God. It is this sentiment to which Modernists give the name of faith, and this it is which they consider the beginning of religion.
 
@@ -29,14 +25,20 @@ To ascertain the nature of dogma, we must first find the relation which exists b
 **Its Evolution**
 
 13. Hence it is quite impossible to maintain that they express absolute truth: for, in so far as they are *symbols*, they are the images of truth, and so must be adapted to the religious sentiment in its relation to man; and as *instruments*, they are the vehicles of truth, and must therefore in their turn be adapted to man in his relation to the religious sentiment. But the object of the *religious sentiment*, since it embraces that *absolute*, possesses an infinite variety of aspects of which now one, now another, may present itself. In like manner, he who believes may pass through different phases. Consequently, the formulae too, which we call dogmas, must be subject to these vicissitudes, and are, therefore, liable to change. Thus the way is open to the intrinsic *evolution* of dogma. An immense collection of sophisms this, that ruins and destroys all religion. Dogma is not only able, but ought to evolve and to be changed. This is strongly affirmed by the Modernists, and as clearly flows from their principles. For amongst the chief points of their teaching is this which they deduce from the principle of *vital immanence*; that religious formulas, to be really religious and not merely theological speculations, ought to be living and to live the life of the religious sentiment. This is not to be understood in the sense that these formulas, especially if merely imaginative, were to be made for the religious sentiment; it has no more to do with their origin than with number or quality; what is necessary is that the religious sentiment, with some modification when necessary, should vitally assimilate them. In other words, it is necessary that the primitive formula be accepted and sanctioned by the heart; and similarly the subsequent work from which spring the secondary formulas must proceed under the guidance of the heart. Hence it comes that these formulas, to be living, should be, and should remain, adapted to the faith and to him who believes. Wherefore if for any reason this adaptation should cease to exist, they lose their first meaning and accordingly must be changed. And since the character and lot of dogmatic formulas is so precarious, there is no room for surprise that Modernists regard them so lightly and in such open disrespect. And so they audaciously charge the Church both with taking the wrong road from inability to distinguish the religious and moral sense of formulas from their surface meaning, and with clinging tenaciously and vainly to meaningless formulas whilst religion is allowed to go to ruin. *Blind* that they are, and *leaders of the blind*, inflated with a boastful science, they have reached that pitch of folly where they pervert the eternal concept of truth and the true nature of the religious sentiment; with that new system of theirs *they are seen to be under the sway of a blind and unchecked passion for novelty, thinking not at all of finding some solid foundation of truth, but despising the holy and apostolic traditions, they embrace other vain, futile, uncertain doctrines, condemned by the Church, on which, in the height of their vanity, they think they can rest and maintain truth itself.*
-    
-    
-    
-    
-    
-    
-    
-    
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 ***The Modernist as Believer: Individual Experience and Religious Certitude***
 
@@ -63,6 +65,20 @@ The Modernists completely invert the parts, and to them may be applied the words
 **The Methods of Modernists**
 
 18. This becomes still clearer to anybody who studies the conduct of Modernists, which is in perfect harmony with their teachings. In the writings and addresses they seem not unfrequently to advocate now one doctrine now another so that one would be disposed to regard them as vague and doubtful. But there is a reason for this, and it is to be found in their ideas as to the mutual separation of science and faith. Hence in their books you find some things which might well be expressed by a Catholic, but in the next page you find other things which might have been dictated by a rationalist. When they write history they make no mention of the divinity of Christ, but when they are in the pulpit they profess it clearly; again, when they write history they pay no heed to the Fathers and the Councils, but when they catechise the people, they cite them respectfully. In the same way they draw their distinctions between theological and pastoral exegesis and scientific and historical exegesis. So, too, acting on the principle that science in no way depends upon faith, when they treat of philosophy, history, criticism, feeling no horror at treading in the footsteps of Luther, they are wont to display a certain contempt for Catholic doctrines, or the Holy Fathers, for the Ecumenical Councils, for the ecclesiastical *magisterium*; and should they be rebuked for this, they complain that they are being deprived of their liberty. Lastly, guided by the theory that faith must be subject to science, they continuously and openly criticise the Church because of her sheer obstinacy in refusing to submit and accommodate her dogmas to the opinions of philosophy; while they, on their side, after having blotted out the old theology, endeavour to introduce a new theology which shall follow the vagaries of their philosophers.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 **The Modernist as Theologian: 
 His Principles, Immanence and Symbolism**
@@ -103,6 +119,20 @@ With all this in mind, one understands how it is that the Modernists express ast
 
 28. Thus then, Venerable Brethren, for the Modernists, both as authors and propagandists, there is to be nothing stable, nothing immutable in the Church. Nor indeed are they without precursors in their doctrines, for it was of these that Our Predecessor Pius IX wrote: *These enemies of divine revelation extol human progress to the skies, and with rash and sacrilegious daring would have it introduced into the Catholic religion as if this religion were not the work of God but of man, or some kind of philosophical discovery susceptible of perfection by human efforts.* On the subject of revelation and dogma in particular, the doctrine of the Modernists offers nothing new - we find it condemned in the Syllabus of Pius IX., where it is enunciated in these terms: *Divine revelation is imperfect, and therefore subject to continual and indefinite progress, corresponding with the progress of human reason*; and condemned still more solemnly in the Vatican Council: *The doctrine of the faith which God has revealed has not been proposed to human intelligences to be perfected by them as if it were a philosophical system, but as a divine deposit entrusted to the Spouse of Christ to be faithfully guarded and infallibly interpreted. Hence the sense, too, of the sacred dogmas is that which our Holy Mother the Church has once declared, nor is this sense ever to be abandoned on plea or pretext of a more profound comprehension of the truth*. Nor is the development of our knowledge, even concerning the faith, impeded by this pronouncement - on the contrary it is aided and promoted. For the same Council continues: *Let intelligence and science and wisdom, therefore, increase and progress abundantly and vigorously in individuals and in the mass, in the believer and in the whole Church, throughout the ages and the centuries - but only in its own kind, that is, according to the same dogma, the same sense, the same acceptation.*
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 **The Modernist as Historian and Critic**
 
 29. After having studied the Modernist as philosopher, believer and theologian, it now remains for us to consider him as historian, critic, apologist, reformer.
@@ -123,6 +153,24 @@ Criticism and its Principles
 
 We believe, then, that We have set forth with sufficient clearness the historical method of the Modernists. The philosopher leads the way, the historian follows, and then in due order come internal and textual criticism. And since it is characteristic of the first cause to communicate its virtue to secondary causes, it is quite clear that the criticism We are concerned with is an *agnostic, immanentist, and evolutionist* criticism. Hence anybody who embraces it and employs it, makes profession thereby of the errors contained in it, and places himself in opposition to Catholic faith. This being so, one cannot but be greatly surprised by the consideration which is attached to it by certain Catholics. Two causes may be assigned for this: first, the close alliance, independent of all differences of nationality or religion, which the historians and critics of this school have formed among themselves; second, the boundless effrontery of these men. Let one of them but open his mouth and the others applaud him in chorus, proclaiming that science has made another step forward; let an outsider but hint at a desire to inspect the new discovery with his own eyes, and they are on him in a body; deny it - and you are an ignoramus; embrace it and defend it - and there is no praise too warm for you. In this way they win over any who, did they but realise what they are doing, would shrink back with horror. The impudence and the domineering of some, and the thoughtlessness and imprudence of others, have combined to generate a pestilence in the air which penetrates everywhere and spreads the contagion. But let us pass to the apologist.
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 **The Modernist as Apologist**
 
 35. The Modernist apologist depends in two ways on the philosopher. First, *indirectly*, inasmuch as his theme is history - history dictated, as we have seen, by the philosopher; and, secondly, *directly*, inasmuch as he takes both his laws and his principles from the philosopher. Hence that common precept of the Modernist school that the new apologetics must be fed from psychological and historical sources. The Modernist apologists, then, enter the arena by proclaiming to the rationalists that though they are defending religion, they have no intention of employing the data of the sacred books or the histories in current use in the Church, and composed according to old methods, but *real* history written on modern principles and according to rigorously modern methods. In all this they are not using an *argumentum ad hominem*, but are stating the simple fact that they hold, that the truth is to be found only in this kind of history. They feel that it is not necessary for them to dwell on their own sincerity in their writings - they are already known to and praised by the rationalists as fighting under the same banner, and they not only plume themselves on these encomiums, which are a kind of salary to them but would only provoke nausea in a real Catholic, but use them as an offset to the reprimands of the Church.
@@ -137,15 +185,61 @@ We, Venerable Brethren, for whom there is but one and only truth, and who hold t
 
 37. But it is not solely by objective arguments that the non-believer may be disposed to faith. There are also *subjective* ones at the disposal of the Modernists, and for those they return to their doctrine of *immanence*. They endeavour, in fact, to persuade their non-believer that down in the very deeps of his nature and his life lie the need and the desire for religion, and this not a religion of any kind, but the specific religion known as Catholicism, which, they say, is absolutely *postulated* by the perfect development of life. And here We cannot but deplore once more, and grievously, that there are Catholics who, while rejecting *immanence* as a doctrine, employ it as a method of apologetics, and who do this so imprudently that they seem to admit that there is in human nature a true and rigorous necessity with regard to the supernatural order - and not merely a capacity and a suitability for the supernatural, order - and not merely a capacity and a suitability for the supernatural, such as has at all times been emphasized by Catholic apologists. Truth to tell it is only the moderate Modernists who make this appeal to an exigency for the Catholic religion. As for the others, who might be called *intergralists*, they would show to the non-believer, hidden away in the very depths of his being, the very germ which Christ Himself bore in His conscience, and which He bequeathed to the world. Such, Venerable Brethren, is a summary description of the apologetic method of the Modernists, in perfect harmony, as you may see, with their doctrines - methods and doctrines brimming over with errors, made not for edification but for destruction, not for the formation of Catholics but for the plunging of Catholics into heresy; methods and doctrines that would be fatal to any religion.
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 **The Modernist as Reformer**
 
 38. It remains for Us now to say a few words about the Modernist as reformer. From all that has preceded, some idea may be gained of the reforming mania which possesses them: in all Catholicism there is absolutely nothing on which it does not fasten. Reform of philosophy, especially in the seminaries: the scholastic philosophy is to be relegated to the history of philosophy among obsolete systems, and the young men are to be taught modern philosophy which alone is true and suited to the times in which we live. Reform of theology; rational theology is to have modern philosophy for its foundation, and positive theology is to be founded on the history of dogma. As for history, it must be for the future written and taught only according to their modern methods and principles. Dogmas and their evolution are to be harmonised with science and history. In the Catechism no dogmas are to be inserted except those that have been duly reformed and are within the capacity of the people. Regarding worship, the number of external devotions is to be reduced, or at least steps must be taken to prevent their further increase, though, indeed, some of the admirers of symbolism are disposed to be more indulgent on this head. Ecclesiastical government requires to be reformed in all its branches, but especially in its disciplinary and dogmatic parts. Its spirit with the public conscience, which is not wholly for democracy; a share in ecclesiastical government should therefore be given to the lower ranks of the clergy, and even to the laity, and authority should be decentralised. The Roman Congregations, and especially the index and the Holy Office, are to be reformed. The ecclesiastical authority must change its line of conduct in the social and political world; while keeping outside political and social organization, it must adapt itself to those which exist in order to penetrate them with its spirit. With regard to morals, they adopt the principle of the Americanists, that the active virtues are more important than the passive, both in the estimation in which they must be held and in the exercise of them. The clergy are asked to return to their ancient lowliness and poverty, and in their ideas and action to be guided by the principles of Modernism; and there are some who, echoing the teaching of their Protestant masters, would like the suppression of ecclesiastical celibacy. What is there left in the Church which is not to be reformed according to their principles?
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 **Modernism and All the Heresies**
 
 39. It may be, Venerable Brethren, that some may think We have dwelt too long on this exposition of the doctrines of the Modernists. But it was necessary, both in order to refute their customary charge that We do not understand their ideas, and to show that their system does not consist in scattered and unconnected theories but in a perfectly organised body, all the parts of which are solidly joined so that it is not possible to admit one without admitting all. For this reason, too, We have had to give this exposition a somewhat didactic form and not to shrink from employing certain uncouth terms in use among the Modernists. And now, can anybody who takes a survey of the whole system be surprised that We should define it as the synthesis of all heresies? Were one to attempt the task of collecting together all the errors that have been broached against the faith and to concentrate the sap and substance of them all into one, he could not better succeed than the Modernists have done. Nay, they have done more than this, for, as we have already intimated, their system means the destruction not of the Catholic religion alone but of all religion. With good reason do the rationalists applaud them, for the most sincere and the frankest among the rationalists warmly welcome the modernists as their most valuable allies.
 
 For let us return for a moment, Venerable Brethren, to that most disastrous doctrine of *agnosticism*. By it every avenue that leads the intellect to God is barred, but the Modernists would seek to open others available for sentiment and action. Vain efforts! For, after all, what is sentiment but the reaction of the soul on the action of the intelligence or the senses. Take away the intelligence, and man, already inclined to follow the senses, becomes their slave. Vain, too, from another point of view, for all these fantasias on the religious sentiment will never be able to destroy common sense, and common sense tells us that emotion and everything that leads the heart captive proves a hindrance instead of a help to the discovery of truth. We speak, of course, of truth in itself - as for that other purely *subjective* truth, the fruit of sentiment and action, if it serves its purpose for the jugglery of words, it is of no use to the man who wants to know above all things whether outside himself there is a God into whose hands he is one day to fall. True, the Modernists do call in *experience* to eke out their system, but what does this *experience* add to sentiment? Absolutely nothing beyond a certain intensity and a proportionate deepening of the conviction of the reality of the object. But these two will never make sentiment into anything but sentiment, nor deprive it of its characteristic which is to cause deception when the intelligence is not there to guide it; on the contrary, they but confirm and aggravate this characteristic, for the more intense sentiment is the more it is sentimental. In matters of religious sentiment and religious experience, you know, Venerable Brethren, how necessary is prudence and how necessary, too, the science which directs prudence. You know it from your own dealings with sounds, and especially with souls in whom sentiment predominates; you know it also from your reading of ascetical books - books for which the Modernists have but little esteem, but which testify to a science and a solidity very different from theirs, and to a refinement and subtlety of observation of which the Modernists give no evidence. Is it not really folly, or at least sovereign imprudence, to trust oneself without control to Modernist experiences? Let us for a moment put the question: if experiences have so much value in their eyes, why do they not attach equal weight to the experience that thousands upon thousands of Catholics have that the Modernists are on the wrong road? It is, perchance, that all experiences except those felt by the Modernists are false and deceptive? The vast majority of mankind holds and always will hold firmly that sentiment and experience alone, when not enlightened and guided by reason, do not lead to the knowledge of God. What remains, then, but the annihilation of all religion, - atheism? Certainly it is not the doctrine of *symbolism* - will save us from this. For if all the intellectual elements, as they call them, of religion are pure symbols, will not the very name of God or of divine personality be also a symbol, and if this be admitted will not the personality of God become a matter of doubt and the way opened to Pantheism? And to Pantheism that other doctrine of the *divine immanence* leads directly. For does it, We ask, leave God distinct from man or not? If yes, in what does it differ from Catholic doctrine, and why reject external revelation? If no, we are at once in Pantheism. Now the doctrine of immanence in the Modernist acceptation holds and professes that every phenomenon of conscience proceeds from man as man. The rigorous conclusion from this is the identity of man with God, which means Pantheism. The same conclusion follows from the distinction Modernists make between science and faith. The object of science they say is the reality of the knowable; the object of faith, on the contrary, is the reality of the unknowable. Now what makes the unknowable unknowable is its disproportion with the intelligible - a disproportion which nothing whatever, even in the doctrine of the Modernist, can suppress. Hence the unknowable remains and will eternally remain unknowable to the believer as well as to the man of science. Therefore if any religion at all is possible it can only be the religion of an unknowable reality. And why this religion might not be that universal soul of the universe, of which a rationalist speaks, is something We do see. Certainly this suffices to show superabundantly by how many roads Modernism leads to the annihilation of all religion. The first step in this direction was taken by Protestantism; the second is made by Modernism; the next will plunge headlong into atheism.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 **THE CAUSE OF MODERNISM**
 
@@ -160,6 +254,22 @@ But it is pride which exercises an incomparably greater sway over the soul to bl
 42. If only they had displayed less zeal and energy in propagating it! But such is their activity and such their unwearying capacity for work on behalf of their cause, that one cannot but be pained to see them waste such labour in endeavouring to ruin the Church when they might have been of such service to her had their efforts been better employed. Their articles to delude men's minds are of two kinds, the first to remove obstacles from their path, the second to devise and apply actively and patiently every instrument that can serve their purpose. They recognise that the three chief difficulties for them are scholastic philosophy, the authority of the fathers and tradition, and the magisterium of the Church, and on these they wage unrelenting war. For scholastic philosophy and theology they have only ridicule and contempt. Whether it is ignorance or fear, or both, that inspires this conduct in them, certain it is that the passion for novelty is always united in them with hatred of scholasticism, and there is no surer sign that a man is on the way to Modernism than when he begins to show his dislike for this system. Modernists and their admirers should remember the proposition condemned by Pius IX: *The method and principles which have served the doctors of scholasticism when treating of theology no longer correspond with the exigencies of our time or the progress of science* (Syll. Prop. 13). They exercise all their ingenuity in diminishing the force and falsifying the character of tradition, so as to rob it of all its weight. But for Catholics the second Council of Nicea will always have the force of law, where it condemns those *who dare, after the impious fashion of heretics, to deride the ecclesiastical traditions, to invent novelties of some kind . . . or endeavour by malice or craft to overthrow any one of the legitimate traditions of the Catholic Church*; and Catholics will hold for law, also, the profession of the fourth Council of Constantinople: *We therefore profess to conserve and guard the rules bequeathed to the Holy Catholic and Apostolic Church by the Holy and most illustrious Apostles, by the orthodox Councils, both general and local, and by every one of those divine interpreters the Fathers and Doctors of the Church*. Wherefore the Roman Pontiffs, Pius IV. and Pius IX., ordered the insertion in the profession of faith of the following declaration: *I most firmly admit and embrace the apostolic and ecclesiastical traditions and other observances and constitutions of the Church*. The Modernists pass the same judgment on the most holy Fathers of the Church as they pass on tradition; decreeing, with amazing effrontery that, while personally most worthy of all veneration, they were entirely ignorant of history and criticism, for which they are only excusable on account of the time in which they lived. Finally, the Modernists try in every way to diminish and weaken the authority of the ecclesiastical magisterium itself by sacrilegiously falsifying its origin, character, and rights, and by freely repeating the calumnies of its adversaries. To all the band of Modernists may be applied those words which Our Predecessor wrote with such pain: *To bring contempt and odium on the mystic Spouse of Christ, who is the true light, the children of darkness have been wont to cast in her face before the world a stupid calumny, and perverting the meaning and force of things and words, to depict her as the friend of darkness and ignorance, and the enemy of light, science, and progress* (Motu-proprio, *Ut mysticum*, 14 March, 1891). This being so, Venerable Brethren, no wonder the Modernists vent all their gall and hatred on Catholics who sturdily fight the battles of the Church. But of all the insults they heap on them those of ignorance and obstinacy are the favourites. When an adversary rises up against them with an erudition and force that render him redoubtable, they try to make a conspiracy of silence around him to nullify the effects of his attack, while in flagrant contrast with this policy towards Catholics, they load with constant praise the writers who range themselves on their side, hailing their works, excluding novelty in every page, with choruses of applause; for them the scholarship of a writer is in direct proportion to the recklessness of his attacks on antiquity, and of his efforts to undermine tradition and the ecclesiastical magisterium; when one of their number falls under the condemnations of the Church the rest of them, to the horror of good Catholics, gather round him, heap public praise upon him, venerate him almost as a martyr to truth. The young, excited and confused by all this glamour of praise and abuse, some of them afraid of being branded as ignorant, others ambitious to be considered learned, and both classes goaded internally by curiosity and pride, often surrender and give themselves up to Modernism.
 
 43. And here we have already some of the artifices employed by Modernists to exploit their wares. What efforts they make to win new recruits! They seize upon chairs in the seminaries and universities, and gradually make of them chairs of pestilence. From these sacred chairs they scatter, though not always openly, the seeds of their doctrines; they proclaim their teachings without disguise in congresses; they introduce them and make them the vogue in social institutions. Under their own names and under pseudonyms they publish numbers of books, newspapers, reviews, and sometimes one and the same writer adopts a variety of pseudonyms to trap the incautious reader into believing in a whole multitude of Modernist writers - in short they leave nothing untried, in action, discourses, writings, as though there were a frenzy of propaganda upon them. And the results of all this? We have to lament at the sight of many young men once full of promise and capable of rendering great services to the Church, now gone astray. And there is another sight that saddens Us too: that of so many other Catholics, who, while they certainly do not go so far as the former, have yet grown into the habit, as though they had been breathing a poisoned atmosphere, of thinking and speaking and writing with a liberty that ill becomes Catholics. They are to be found among the laity, and in the ranks of the clergy, and they are not wanting even in the last place where one might expect to meet them, in religious institutes. If they treat of biblical questions, it is upon Modernist principles; if they write history, it is to search out with curiosity and to publish openly, on the pretext of telling the whole truth and with a species of ill-concealed satisfaction, everything that looks to them like a stain in the history of the Church. Under the sway of certain a priori rules they destroy as far as they can the pious traditions of the people, and bring ridicule on certain relics highly venerable from their antiquity. They are possessed by the empty desire of being talked about, and they know they would never succeed in this were they to say only what has been always said. It may be that they have persuaded themselves that in all this they are really serving God and the Church - in reality they only offend both, less perhaps by their works themselves than by the spirit in which they write and by the encouragement they are giving to the extravagances of the Modernists.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 **REMEDIES**
 

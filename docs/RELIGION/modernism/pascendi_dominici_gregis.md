@@ -26,7 +26,7 @@ This is a summary of *Pascendi Dominici Gregis* promulgated by Pope Pius X on Se
 
 **Gravity of the Situation**
 
-- Those seeking to teach error can now be found within the Church, both laity and clergy. [2]
+- Those seeking to teach error can now be found _within_ the Church, _both laity and clergy_. [2]
 
 - They call themselves reformers and they teach false doctrines. [2]
 
@@ -38,7 +38,7 @@ This is a summary of *Pascendi Dominici Gregis* promulgated by Pope Pius X on Se
 
 - They disdain all authority and teach without restraint for "the love of truth". [3]
 
-- At first We showed them kindness in hopes that they would amend, but had to resort to more severe treatment and now, reluctantly, to public reproof. our efforts have been fruitless. [3]
+- At first We showed them kindness in hopes that they would amend, but had to resort to more severe treatment and now, reluctantly, to public reproof. Our efforts have been fruitless. [3]
 
 - They must now be exposed so as to protect the Catholic name.
 
@@ -50,15 +50,18 @@ This is a summary of *Pascendi Dominici Gregis* promulgated by Pope Pius X on Se
 
 **Analysis of Modernist Teaching**
 
-- Every Modernist has several personalities: philosopher, believer, theologian, historian, critic, apologist, and reformer. These roles must be clearly distinguished to understand their system and principles, as wellas the consequences of their doctrines. [5]
+- Every Modernist has several personalities: philosopher, believer, theologian, historian, critic, apologist, and reformer. These roles must be clearly distinguished to understand their system and principles, as well as the consequences of their doctrines. [5]
 
 - Philosopher
   
-  - Modernist thought is founded on the philosophy of Agnosticism, but has somehow progressed to full atheism (positive denial of God). [6]
+  - Modernist thought was founded on the philosophy of _Agnosticism_, but has somehow progressed to full _atheism_ (positive denial of God). [6]
   - This philosophy purports that human reason is strictly limited to phenomena, only that which can be sensed; thus God's existance cannot be recognized directly in scientific or historical studies. [6]
-  - Vatican I condemned the errors that negate Natural Theology (*De Revel*., can. I), divine external revelation (*De Revel*, can. 2) and motives of credibility (i.e. by external signs, thus reducing faith to personal internal experience or private inspiration (*De Fide*, can. 3). [6]
-  - The Modernist explanation for religion is the principle of *vital immanence*, that is to say, that is *comes from within* the life of man.
+  - Vatican I condemned the errors that negate Natural Theology (*De Revel*., can. I), divine external revelation (*De Revel*, can. 2) and motives of credibility (i.e. by external signs), thus reducing faith to personal internal experience or private inspiration (*De Fide*, can. 3). [6]
+  - The Modernist explanation for religion is the principle of *vital immanence*, that is to say, that it *comes from within* the life of man. [7]
+    - Religion must have an explanation, but if it cannot come from nature, revelation, or something external, then the only remaining option is that it come from within man, namely a movement of the heart they call _sentiment_.
+    - Every vital phenomenon arises from a need or impulse, 
   - BOOKMARK - Resume research here
+  - Paragraph 8
   - Deformation of Religious History the Consequence
   - The Origin of Dogmas
   - Its Evolution
