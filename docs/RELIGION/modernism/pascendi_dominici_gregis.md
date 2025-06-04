@@ -57,11 +57,14 @@ This is a summary of *Pascendi Dominici Gregis* promulgated by Pope Pius X on Se
   - Modernist thought was founded on the philosophy of _Agnosticism_, but has somehow progressed to full _atheism_ (positive denial of God). [6]
   - This philosophy purports that human reason is strictly limited to phenomena, only that which can be sensed; thus God's existance cannot be recognized directly in scientific or historical studies. [6]
   - Vatican I condemned the errors that negate Natural Theology (*De Revel*., can. I), divine external revelation (*De Revel*, can. 2) and motives of credibility (i.e. by external signs), thus reducing faith to personal internal experience or private inspiration (*De Fide*, can. 3). [6]
-  - The Modernist explanation for religion is the principle of *vital immanence*, that is to say, that it *comes from within* the life of man. [7]
+  - The Modernist explanation for religion is the principle of *vital immanence*, that is to say, that it *comes from within* the life of man. (c.f. Fideism) [7]
     - Religion must have an explanation, but if it cannot come from nature, revelation, or something external, then the only remaining option is that it come from within man, namely a movement of the heart they call _sentiment_.
-    - Every vital phenomenon arises from a need or impulse, 
-  - BOOKMARK - Resume research here
-  - Paragraph 8
+    - Every vital phenomenon arises from a need or impulse, and in this case, faith (on which religion is predicated) is a sentiment that originates from a subconscious need for the divine.
+    - History and science are bounded externally by the physical world and internally by human consciousness; anything outside these bounds cannot be known.
+    - But as stated, faith comes from the _subconscious_, and as both object and cause, this sentiment is the reality of God, thus bringing God and man together.
+  - The corollary is that if the reality og God can be found within, there too is revelation. This means that: [8]
+    - All regions must be considered both natural and supernatural
+    - Consciousness is of equal authority as divine revelation
   - Deformation of Religious History the Consequence
   - The Origin of Dogmas
   - Its Evolution
