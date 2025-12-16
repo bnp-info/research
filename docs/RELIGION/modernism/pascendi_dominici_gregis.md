@@ -76,8 +76,21 @@ This is a summary of *Pascendi Dominici Gregis* promulgated by Pope Pius X on Se
     - This is the teaching of some Catholics who wish to reform the Church.
     - This goes beyond man claiming a right to the supernatural order (c.f. The Fall), but a claim that religion (i.e. our relationship with the divine) isn't supernatural at all, but natural.
     - Vatican I upheld: "If anyone says that man cannot be raised by God to a knowledge and perfection which surpasses nature, but that he can and should, by his own efforts and by a constant development, attain finally to the possession of all truth and good, let him be anathema" (*De Revel.*, can. 3).
-  - The Origin of Dogmas
-  - Its Evolution
+  - Modernists claim that dogmas originate from within via two formulae.
+    - It is the role of the intellect to distinguish God from the sentiment. [11]
+    - Thus, "the religious man must *ponder* his faith." [11]
+    - Twofold process (formulae): spontaneous simple expression followed by deep elaboration as propositions. [11]
+    - Magisterial approval of these propositions result in dogma. [11]
+    - The nature of a dogma depends on the formulae and the sentiment. [12]
+    - The formulae only exist to reveal the faith to its believer. [12]
+    - Thus, they stand between faith and beliver as *symbols* and *instruments*. [12]
+  - This system requires the evolution of dogmas. [13]
+    - This system does not allow for dogmas to express absolute truth.
+    - Dogmas are *relative* to sentiment and the believer, and both can change.
+    - Thus, dogmas (the formulae) must (not just can, but ought to) also evolve.
+    - Governance of both formulae must be given to the heart.
+    - Thus, modernists disregard traditional dogmas as no longer relevant.
+    - 
 
 - Believer: Individual Experience and Religious Certitude
   
