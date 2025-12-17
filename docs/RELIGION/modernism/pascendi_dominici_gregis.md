@@ -62,48 +62,71 @@ This is a summary of *Pascendi Dominici Gregis* promulgated by Pope Pius X on Se
     - Every vital phenomenon arises from a need or impulse, and in this case, faith (on which religion is predicated) is a sentiment that originates from a subconscious need for the divine.
     - History and science are bounded externally by the physical world and internally by human consciousness; anything outside these bounds cannot be known.
     - But as stated, faith comes from the _subconscious_, and as both object and cause, this sentiment is the reality of God, thus bringing God and man together.
-  - The corollary is that if the reality og God can be found within, there too is revelation. This means that: [8]
-    - All regions must be considered both natural and supernatural
+  - Corollary: if the reality of God can be found within, there too is revelation. [8] Ergo: 
+    - All religions must be considered both natural and supernatural
     - Consciousness is of equal authority as divine revelation
-  - Deformation of Religious History the Consequence
-  - The Origin of Dogmas
-  - Its Evolution
+  - The deformation of religious history is the consequence [9]:
+    - This "unknowable" is only revealed in conjunction with a phenomenon.
+    - The phenomenon connot be reconciled with normal laws of history.
+    - Faith is attracted to the phenomenon and takes possession of it.
+    - The phenomenon is transfigured, elevated beyond its true conditions.
+    - The phenomenon is disfigured when taken out of context (place/time).
+    - Example: anything that elevates the historical Christ must be rejected.
+  - Thus, modernists claim that all religion comes from *vital immanence*, and that Catholicism is no exception, just the development of *religious sentiment* as a byproduct of human development. [10]
+    - This is the teaching of some Catholics who wish to reform the Church.
+    - This goes beyond man claiming a right to the supernatural order (c.f. The Fall), but a claim that religion (i.e. our relationship with the divine) isn't supernatural at all, but natural.
+    - Vatican I upheld: "If anyone says that man cannot be raised by God to a knowledge and perfection which surpasses nature, but that he can and should, by his own efforts and by a constant development, attain finally to the possession of all truth and good, let him be anathema" (*De Revel.*, can. 3).
+  - Modernists claim that dogmas originate from within via two formulae.
+    - It is the role of the intellect to distinguish God from the sentiment. [11]
+    - Thus, "the religious man must *ponder* his faith." [11]
+    - Twofold process (formulae): spontaneous simple expression followed by deep elaboration as propositions. [11]
+    - Magisterial approval of these propositions result in dogma. [11]
+    - The nature of a dogma depends on the formulae and the sentiment. [12]
+    - The formulae only exist to reveal the faith to its believer. [12]
+    - Thus, they stand between faith and beliver as *symbols* and *instruments*. [12]
+  - This system requires the evolution of dogmas. [13]
+    - This system does not allow for dogmas to express absolute truth.
+    - Dogmas are *relative* to sentiment and the believer, and both can change.
+    - Thus, dogmas (the formulae) must (not just can, but ought to) also evolve.
+    - Governance of both formulae must be given to the heart.
+    - Thus, modernists disregard traditional dogmas as no longer relevant.
+    - 
 
-- The Modernist as Believer: Individual Experience and Religious Certitude
+- Believer: Individual Experience and Religious Certitude
+  
+  - Religious Experience and Tradition
+  
+  - Faith and Science
+  
+  - Faith Subject to Science
+  
+  - The Methods of Modernists
 
-- Religious Experience and Tradition
+- Theologian: His Principles, Immanence and Symbolism
+  
+  - Dogma and the Sacraments
+  
+  - The Holy Scriptures
+  
+  - The Church
+  
+  - The Relations Between Church and State
+  
+  - The Magisterium of the Church
+  
+  - The Evolution of Doctrine
 
-- Faith and Science
+- Historian and Critic
+  
+  - Criticism and its Principles
+  
+  - How the Bible is Dealt With
 
-- Faith Subject to Science
+- Apologist
+  
+  - Subjective Arguments
 
-- The Methods of Modernists
-
-- The Modernist as Theologian: His Principles, Immanence and Symbolism
-
-- Dogma and the Sacraments
-
-- The Holy Scriptures
-
-- The Church
-
-- The Relations Between Church and State
-
-- The Magisterium of the Church
-
-- The Evolution of Doctrine
-
-- The Modernist as Historian and Critic
-
-- Criticism and its Principles
-
-- How the Bible is Dealt With
-
-- The Modernist as Apologist
-
-- Subjective Arguments
-
-- The Modernist as Reformer
+- Reformer
 
 - Modernism and All the Heresies
 
