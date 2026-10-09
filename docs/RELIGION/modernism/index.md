@@ -2,13 +2,14 @@
 layout: default
 title: Catholic Modernism
 parent: RELIGION
+nav_order: 2
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 # Catholic Modernism
 
-## Status: Planned
+## Status: In Progress
 
 ## Synopsis
 
