@@ -21,7 +21,7 @@ has_toc: false
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="vertical-align: top;">
       <td>
         Genesis<br>
         Exodus<br>
@@ -92,7 +92,7 @@ has_toc: false
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="vertical-align: top;">
       <td>
         Matthew<br>
         Mark<br>
