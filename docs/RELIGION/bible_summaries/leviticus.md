@@ -7,6 +7,8 @@ has_children: true
 has_toc: false
 ---
 
+# Leviticus
+
 The book of Leviticus provides many of the rules by which the Israelites were supposed to live. It covers rituals, sacrifices, the priesthood, and feasts, as well as behaviors. These laws were designed to establish and foster a way of life for the people that was pleasing to God.
 
 ## Authorship & History

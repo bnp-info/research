@@ -7,6 +7,8 @@ has_children: true
 has_toc: false
 ---
 
+# Exodus
+
 Exodus is the story of Moses as the leader of the Israelites. It begins with the generation of Joseph and the subsequent oppression of the Israelites by the Egyption Pharoh. Moses, an Israelite, is protected by God from death at the order fo the Pharoh, enters the royal household and rises to power within the Egyption government. He then leads the Israelites from bondage in Egypt to freedom in the Promised Land and delivers to them the Law of God. The focus of this book is the covenant-relationship between God that the nation of Israel. The Law was given so that a people may be prepared, through which the promise of a savior would be fulfilled.
 
 ## Authorship & History
