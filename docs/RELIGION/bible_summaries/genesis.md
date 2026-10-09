@@ -7,6 +7,8 @@ has_children: true
 has_toc: false
 ---
 
+# Genesis
+
 Genesis is the history of the relationship between God and man beginning with the creation of the world and leading up to the time of the prophet Moses. This relationship is bonded by covenants, or "agreements", between God and man, which are essential to Jewish identity. Christians interpret the stories in Genesis as prefigurations, or "types and shadows", of the faith and the covenants as promises fulfilled by the coming of Christ. Truth is robed in literary garb that people of the time would understand: this was done to preserve the Word. (NAB Intro to Genesis)
 
 ## Authorship & History
